@@ -24,6 +24,13 @@ Target class:
    - Benign
    
 ## Dataset
-Download Dataest from [here.](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
+Download Dataest from [here](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic).
 
 ## EDA
+![](https://github.com/parthshah28/BREAST-CANCER-CLASSIFICATION/blob/master/images/download%20(1).png)
+
+![](https://github.com/parthshah28/BREAST-CANCER-CLASSIFICATION/blob/master/images/download.png)
+
+![](https://github.com/parthshah28/BREAST-CANCER-CLASSIFICATION/blob/master/images/download%20(2).png)
+
+![](https://github.com/parthshah28/BREAST-CANCER-CLASSIFICATION/blob/master/images/download%20(3).png)
