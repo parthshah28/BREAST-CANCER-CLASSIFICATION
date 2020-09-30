@@ -24,7 +24,7 @@ Target class:
    - Benign
    
 ## Dataset
-Download Dataest from [here](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic).
+Download Dataest from Sci-kit Learn.
 
 ## EDA
 ![](https://github.com/parthshah28/BREAST-CANCER-CLASSIFICATION/blob/master/images/download%20(1).png)
@@ -34,3 +34,13 @@ Download Dataest from [here](https://archive.ics.uci.edu/ml/datasets/Breast+Canc
 ![](https://github.com/parthshah28/BREAST-CANCER-CLASSIFICATION/blob/master/images/download%20(2).png)
 
 ![](https://github.com/parthshah28/BREAST-CANCER-CLASSIFICATION/blob/master/images/download%20(3).png)
+
+## Model Building
+I used SVC model.
+
+### Confusion Matrix (before improving model)
+![](https://github.com/parthshah28/BREAST-CANCER-CLASSIFICATION/blob/master/images/download%20(5).png)
+
+### Confusion Matrix (after improving model)
+![](https://github.com/parthshah28/BREAST-CANCER-CLASSIFICATION/blob/master/images/download%20(4).png)
+
