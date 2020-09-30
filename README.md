@@ -22,3 +22,8 @@ Class Distribution: 212 Malignant, 357 Benign
 Target class:
    - Malignant
    - Benign
+   
+## Dataset
+Download Dataest from [here.](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
+
+## EDA
