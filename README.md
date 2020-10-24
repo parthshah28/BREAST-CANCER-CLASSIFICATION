@@ -36,7 +36,7 @@ Download Dataest from Sci-kit Learn.
 ![](https://github.com/parthshah28/BREAST-CANCER-CLASSIFICATION/blob/master/images/download%20(3).png)
 
 ## Model Building
-I used SVC model.
+I have used SVC model.
 
 ### Confusion Matrix (before improving model)
 ![](https://github.com/parthshah28/BREAST-CANCER-CLASSIFICATION/blob/master/images/download%20(5).png)
